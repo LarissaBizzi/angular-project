@@ -1,6 +1,6 @@
-# AngularToh
+# About the project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
+This project was built following some of the informations from the Angular tutorial.
 
 ## Development server
 
